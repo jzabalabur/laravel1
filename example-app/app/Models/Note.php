@@ -11,4 +11,5 @@ class Note extends Model
         'title',
         'description'
     ];
+
 }
